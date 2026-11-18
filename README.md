@@ -32,3 +32,8 @@ API Key 保存在本机环境中。新目录默认共享预算 20 元，小样�
 - [原始日志、轨迹、模型响应及判分文件](results/raw-evidence.tar.gz)与[校验值](results/raw-evidence.sha256)
 
 解压证据包后，可用逐组指标 run 字段中的 output/ 之后的路径定位记录。原始文件保留运行时路径。
+
+### 排错与案例证据
+
+- [小样本排错纪要](results/smoke排错纪要.md)
+- [正式失败案例复盘](results/正式失败案例复盘.md)
